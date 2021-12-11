@@ -1,4 +1,5 @@
-# Breaking-CAPTCHA
-CNN that allows to bypass first generation CAPTCHA prompts.
+# CAPTCHA_breaker
+CNN model recognizing CAPTCHA letters.
 
-The notebook contains all the necessary code to process the data and train the CNN. The data was taken from Kaggle and can be found in zipped folder inside the repo.
+
+Data link: https://www.kaggle.com/fournierp/captcha-version-2-images
